@@ -1,0 +1,1 @@
+QuestForge is a turn-based RPG battle engine. Heroes and monsters will take turns attacking, using items, and casting skills until one side wins. I'm building it level by level to learn object-oriented programming and design patterns.
